@@ -1,0 +1,12 @@
+@theme "nord"
+
+configuration {
+		font: "RobotoMono Nerd Font 13";
+		show-icons: true;
+		icon-theme: "Tela-circle-black";
+		display-drun: "Apps";
+}
+
+
+
+
